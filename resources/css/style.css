@@ -1,0 +1,31 @@
+h1 {
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+}
+
+.link {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+body{
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.gray {
+  font-size: 21px;
+  color: gray;
+}
+
+.excursion {
+  text-align: right;
+  color: gray;
+}
